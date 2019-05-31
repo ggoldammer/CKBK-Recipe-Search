@@ -7,6 +7,8 @@ CKBK is an application that retrieves recipes based on the ingredients added to 
 This was the second group project for the University of Arizona Coding Bootcamp.
 
 View Here: http://guarded-springs-86797.herokuapp.com/
+The Frontend was redesigned recently in Adobe Xd. [Click here to view!](https://xd.adobe.com/view/340f55d9-dec8-43ab-6304-43e1c7789ade-423e/)
+
 
 ## Solution
 
